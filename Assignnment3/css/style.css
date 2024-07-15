@@ -142,10 +142,15 @@ main section+section{
 
 }
 
-main section+section div{
+main section+section div {
     text-align: center;
     color: aliceblue;
-    font-weight: 700;   
+    font-weight: 700;
+    font-size: 23px;
+}
+
+main section+section div span{
+    font-size: 13px;
 }
 
 main section+section div li{
